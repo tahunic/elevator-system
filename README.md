@@ -11,6 +11,8 @@ $ npm install
 ## Running the app
 
 ```bash
+$ cp .env.example .env
+
 # development
 $ npm run start
 
