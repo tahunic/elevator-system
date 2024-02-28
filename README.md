@@ -11,6 +11,7 @@ $ npm install
 ## Running the app
 
 ```bash
+# Create .env file from .env.example
 $ cp .env.example .env
 
 # development
